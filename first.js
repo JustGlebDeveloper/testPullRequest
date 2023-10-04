@@ -6,5 +6,5 @@ let e = a + c;
 let f = d + e;
 
 console.log(e);
-
-console.log(d)
+console.log(d);
+console.log(f);
